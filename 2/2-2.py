@@ -1,9 +1,3 @@
-maxColors = {
-    'red': 12,
-    'green': 13,
-    'blue': 14
-}
-
 def calculateGamePower(game):
     rounds = game.split(':')
     # gameNum = int(rounds[0].removeprefix('Game '))
