@@ -35,7 +35,7 @@ def getRatio(key):
 if __name__ == "__main__":
     sum = 0
     
-    file = open('./3-1.input', 'r')
+    file = open('./3.input', 'r')
     for (i, line) in enumerate(file):
         processLine(line, i)
 
